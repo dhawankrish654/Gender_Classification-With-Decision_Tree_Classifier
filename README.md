@@ -36,4 +36,6 @@ Types of Classification Algorithms Let’s have a quick look into the types of C
 # In this classification we would be predicting the gender of a person on the basis of his/her first name with the help of DecisionTreeClassifier.
 In a nutshell, the flow to building this model can be visualized as:
 
-A name => Classifier => Male/Femal
+A name => Classifier => Male/Female
+
+Note-The complete dataset is available in the repo.
